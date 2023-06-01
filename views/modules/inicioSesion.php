@@ -8,7 +8,7 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         
-        <title> Inventario - Inicio Sesión </title>
+        <title> Inventario - Inicio Sesion </title>
         
         <!-- Styles -->
         <link href="../../../inventario_santisima/views/assets/css/styles.css" rel="stylesheet" />
@@ -41,7 +41,7 @@
                                 <div class="card shadow-lg border-0 rounded-lg mt-5">
                                     
                                     <div class="card-header">
-                                        <h3 class="text-center font-weight-light my-4">Iniciar Sesión </h3>
+                                        <h3 class="text-center font-weight-light my-4">Iniciar Sesion </h3>
                                     </div>
 
                                     <div class="card-body">
