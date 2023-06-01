@@ -1,0 +1,5 @@
+1. Prender xampp.
+2. Importar base de datos.
+3. La carpeta debe ser nombre "inventario_santisima".
+4. La carpeta debe estar ubicada en xampp/htdocs.
+5. Se debe abrir en localhost/inventario_santisima.
