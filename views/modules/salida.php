@@ -146,10 +146,10 @@
                     <div class="container-fluid px-4">
                         <h1 class="mt-4"> Salidas </h1>
                         
-                        <!-- CARD TABALA INVENTARIO SALIDA-->
+                        <!-- CARD TABLA INVENTARIO SALIDA-->
                         <div class="card mb-4">
 
-                            <!-- CARD TABALA INVENTARIO SALIDA ENCABEZADO -->
+                            <!-- CARD TABLA INVENTARIO SALIDA ENCABEZADO -->
                             <div class="card-header">
                                 <i class="fa-solid fa-clipboard-list"></i>
                                 <span> Listado de Salidas : </span>
@@ -186,17 +186,7 @@
                                                     </ul>
 
                                                 </div>
-                                            </div>
-
-                                            <!-- GENERAR REPORTES -->
-                                             <!-- GENERAR REPORTES -->
-                                             <div class="col-2">
-                                                <div class="dropdown">
-                                                    <button type="button"  class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#modalFechaReporteSalida">Generar Reporte</button>
-                                                </div>
-                                            </div>
-
-                                            
+                                            </div>                                            
                                             
                                             <!-- MODAL INSERTAR SALIDA -->
                                             <div class="col">

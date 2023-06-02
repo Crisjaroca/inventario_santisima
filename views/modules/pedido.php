@@ -188,13 +188,6 @@
                                                 </div>
                                             </div>
 
-                                            <!-- GENERAR REPORTES -->
-                                            <div class="col-2">
-                                                <div class="dropdown">
-                                                    <button type="button"  class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#modalFechaReporte">Generar Reporte</button>
-                                                </div>
-                                            </div>
-
                                             <!-- MODAL INSERTAR PEDIDO -->
                                             <div class="col">
                                                 <div class="modal fade" id="modalInsertarPedido" data-bs-backdrop="static">
